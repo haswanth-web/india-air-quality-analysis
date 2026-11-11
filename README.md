@@ -5,7 +5,7 @@ An end-to-end data analytics project examining historical air pollution trends a
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
